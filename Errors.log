@@ -1,0 +1,17 @@
+Date	Time	Number	Explanation	Description	CallChain	CaseOfStateMachine
+28/02/2024	11:18:04	7		NI_LVConfig.lvlib:Load.vi<ERR> C:\RH PSTC SOFTWARE LV2015\RH PSTC SOFTWARE\application settings.ini   <b>Complete call chain:</b>       NI_LVConfig.lvlib:Load.vi       NI_LVConfig.lvlib:Open Config Data.vi       Dynamic config file control.vi       RH - PSTC MHCB2 SOFTWARE 2.0.vi	RH - PSTC MHCB2 SOFTWARE 2.0.vi	File IO: Load applic settings
+29/02/2024	18:47:52	7		Read from Text File in Load menu file.vi->RH - PSTC MHCB2 SOFTWARE 2.0.vi<APPEND> C:\RH PSTC SOFTWARE LV2015\RH PSTC SOFTWARE\Board software\MINT\menu.txt	RH - PSTC MHCB2 SOFTWARE 2.0.vi	Startup: Create pulldown menu
+11/06/2024	13:31:12	7		Open VI Reference in MDI Open VI reference.vi->MDI Open Child.vi->RH - PSTC MHCB2 SOFTWARE 2.0.vi<APPEND> VI Path: <b>C:\RH PSTC SOFTWARE LV2015\RH PSTC SOFTWARE\About\PopUP_About.vi</b>	RH - PSTC MHCB2 SOFTWARE 2.0.vi	MDI: open child
+11/06/2024	15:05:03	5501		'' allready in list	RH - PSTC MHCB2 SOFTWARE 2.0.vi	MDI: open child
+11/06/2024	15:31:55	7		Open VI Reference in MDI Open VI reference.vi->MDI Open Child.vi->RH - PSTC MHCB2 SOFTWARE 2.0.vi<APPEND> VI Path: <b>C:\RH PSTC SOFTWARE LV2015\RH PSTC SOFTWARE\Modules\Scripting\Scripting - Main\Script Engine - Main.vi</b>	RH - PSTC MHCB2 SOFTWARE 2.0.vi	Script
+11/06/2024	15:32:00	5501		'' allready in list	RH - PSTC MHCB2 SOFTWARE 2.0.vi	Script
+11/06/2024	15:32:16	5501		'' allready in list	RH - PSTC MHCB2 SOFTWARE 2.0.vi	Script
+11/06/2024	15:32:27	5501		'' allready in list	RH - PSTC MHCB2 SOFTWARE 2.0.vi	Session: load
+11/06/2024	15:32:41	5501		'' allready in list	RH - PSTC MHCB2 SOFTWARE 2.0.vi	MDI: open child
+11/06/2024	15:33:05	5501		'' allready in list	RH - PSTC MHCB2 SOFTWARE 2.0.vi	MDI: open child
+11/06/2024	15:33:17	5501		'' allready in list	RH - PSTC MHCB2 SOFTWARE 2.0.vi	MDI: open child
+11/06/2024	15:33:30	5501		'' allready in list	RH - PSTC MHCB2 SOFTWARE 2.0.vi	MDI: open child
+11/06/2024	15:34:02	1003		Open VI Reference in MDI Open VI reference.vi->MDI Open Child.vi->RH - PSTC MHCB2 SOFTWARE 2.0.vi<APPEND> VI Path: <b>C:\RH PSTC SOFTWARE LV2015\RH PSTC SOFTWARE\Board software\MINT\Modules\MINT Init.vi</b>	RH - PSTC MHCB2 SOFTWARE 2.0.vi	MDI: open child
+11/06/2024	15:55:39	1003		Open VI Reference in MDI Open VI reference.vi->MDI Open Child.vi->RH - PSTC MHCB2 SOFTWARE 2.0.vi<APPEND> VI Path: <b>C:\RH PSTC SOFTWARE LV2015\RH PSTC SOFTWARE\Board software\MINT\Modules\MINT Init.vi</b>	RH - PSTC MHCB2 SOFTWARE 2.0.vi	MDI: open child
+11/06/2024	17:06:35	1026		Invoke Node in PCFMTT - Progress window FG.vi->PCFMTT.vi	PCFMTT.vi	init                    
+11/06/2024	17:09:01	7		Open VI Reference in MDI Open VI reference.vi->MDI Open Child.vi->RH - PSTC MHCB2 SOFTWARE 2.0.vi<APPEND> VI Path: <b>C:\RH PSTC SOFTWARE LV2015\RH PSTC SOFTWARE\About\PopUP_About.vi</b>	RH - PSTC MHCB2 SOFTWARE 2.0.vi	MDI: open child
